@@ -1,0 +1,11 @@
+{
+  "item.minecraft.zombified_piglin_spawn_egg": "Zombie Piglin Spawn Egg",
+
+  "entity.minecraft.zombified_piglin": "Zombie Piglin",
+
+  "subtitles.entity.piglin.converted_to_zombified": "Piglin converts to Zombie Piglin",
+  "subtitles.entity.piglin_brute.converted_to_zombified": "Piglin Brute converts to Zombie Piglin",    "subtitles.entity.zombified_piglin.ambient": "Zombie Piglin grunts",
+  "subtitles.entity.zombified_piglin.angry": "Zombie Piglin grunts angrily",
+  "subtitles.entity.zombified_piglin.death": "Zombie Piglin dies",
+  "subtitles.entity.zombified_piglin.hurt": "Zombie Piglin hurts"
+}
